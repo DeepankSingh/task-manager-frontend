@@ -155,13 +155,13 @@ function App() {
         {/* Footer with helpful information */}
         <footer className="mt-12 text-center text-sm text-gray-500">
           <p>
-            Backend API expected at: 
+            Organize tasks with ease – add, complete, delete. 
             <code className="bg-gray-200 px-2 py-1 rounded ml-1">
-              http://localhost:8080/api/tasks
+              A simple task manager to keep you on track.
             </code>
           </p>
           <p className="mt-2">
-            Make sure your backend server is running for full functionality
+            Plan smarter with quick task add, complete & delete.
           </p>
         </footer>
         
