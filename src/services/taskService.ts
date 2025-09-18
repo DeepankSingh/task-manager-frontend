@@ -2,7 +2,7 @@ import axios from 'axios';
 import { Task } from '../types';
 
 // Base URL for all API calls - change this to match your backend
-const API_BASE_URL = 'https://task-manager-backend-ftod.onrender.com/api/tasks';
+const API_BASE_URL = 'https://task-manager-backend-2-hfrx.onrender.com/api/tasks';
 
 // Configure axios with default settings
 const apiClient = axios.create({
